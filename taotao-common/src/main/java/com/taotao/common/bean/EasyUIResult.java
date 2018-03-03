@@ -1,6 +1,6 @@
 package com.taotao.common.bean;
 import java.util.List;
-
+qqqqq
 public class EasyUIResult {
 
     private Long total;
