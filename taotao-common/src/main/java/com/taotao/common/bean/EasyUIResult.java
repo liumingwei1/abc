@@ -1,5 +1,4 @@
 package com.taotao.common.bean;
-
 import java.util.List;
 
 public class EasyUIResult {
@@ -16,7 +15,6 @@ public class EasyUIResult {
         this.total = total;
         this.rows = rows;
     }
-
     public Long getTotal() {
         return total;
     }
